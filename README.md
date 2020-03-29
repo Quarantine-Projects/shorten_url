@@ -1,6 +1,7 @@
 # shorten_url
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![HitCount](http://hits.dwyl.com/Quarantine-Projects/shorten_url.svg)](http://hits.dwyl.com/Quarantine-Projects/shorten_url)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Python Library to help you short and expand urls using https://rel.ink/
