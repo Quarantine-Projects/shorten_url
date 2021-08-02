@@ -4,7 +4,7 @@
 [![Downloads](https://pepy.tech/badge/shorten-url)](https://pepy.tech/project/shorten-url)
 [![Downloads](https://pepy.tech/badge/shorten-url/month)](https://pepy.tech/project/shorten-url/month)
 [![Downloads](https://pepy.tech/badge/shorten-url/week)](https://pepy.tech/project/shorten-url/week)
-[![HitCount](http://hits.dwyl.com/Quarantine-Projects/shorten_url.svg)](http://hits.dwyl.com/Quarantine-Projects/shorten_url)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Python Library to help you short and expand urls using https://rel.ink/
